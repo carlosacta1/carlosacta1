@@ -6,6 +6,10 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="assets/near_logo.jpg" width="120" alt="Near Logo" />
+</div>
+
 ---
 
 ## 👨‍💻 About me
