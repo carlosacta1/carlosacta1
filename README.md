@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hi there 👋, Welcome to my profile</h1>
+</div>
+
+## About me
 
 <!--
 **carlosacta1/carlosacta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
