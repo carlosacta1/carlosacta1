@@ -55,7 +55,7 @@
 
 ## 📫 Connect with me
 
-- GitHub: [@carlosacta1](https://github.com/carlosacta1)
+- Linkedin: [@carlos](https://www.linkedin.com/in/carlos-andres-acosta-tangarife/)
 
 ---
 
