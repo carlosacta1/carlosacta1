@@ -45,6 +45,27 @@
 
 ---
 
+🎮 Featured Project – Warriors Arena
+<div align="center"> <a href="https://warriorsarena.io" target="_blank"> <img src="assets/warriorsarena_banner.png" alt="Warriors Arena Banner" width="100%" /> </a> </div>
+
+Warriors Arena is a real-time multiplayer browser game focused on competitive combat and fast-paced action.
+
+🔥 Highlights
+
+⚔️ Real-time multiplayer architecture
+
+🌐 WebSockets-based networking
+
+🧠 Server-authoritative game logic
+
+🎮 Built with Phaser + custom backend
+
+🚀 Live production deployment
+
+👉 Play now: https://warriorsarena.io
+
+---
+
 ## 📌 Current Focus
 
 - Building my first indie multiplayer game project  
