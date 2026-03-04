@@ -23,29 +23,10 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🎮 Featured Projects
 
-**Backend**
-- Ruby on Rails  
-- PostgreSQL  
-- REST APIs  
+### Warriors Arena
 
-**Frontend**
-- React + TypeScript  
-- Next.js  
-
-**Mobile**
-- Kotlin  
-- Android Development (Jetpack Compose)
-
-**Entertainment & Game Dev (learning)**
-- Multiplayer game architecture  
-- WebSockets  
-- Interactive and real-time systems  
-
----
-
-🎮 Featured Project – Warriors Arena
 <div align="center"> <a href="https://warriorsarena.io" target="_blank"> <img src="assets/warriorsarena_banner.png" alt="Warriors Arena Banner" width="100%" /> </a> </div>
 
 Warriors Arena is a real-time multiplayer browser game focused on competitive combat and fast-paced action.
@@ -63,6 +44,29 @@ Warriors Arena is a real-time multiplayer browser game focused on competitive co
 🚀 Live production deployment
 
 👉 Play now: https://warriorsarena.io
+
+---
+
+## 🚀 Tech Stack
+
+**Backend**
+- Ruby on Rails 
+- PostgreSQL
+- Nodejs
+- REST APIs  
+
+**Frontend**
+- React + TypeScript  
+- Next.js  
+
+**Mobile**
+- Kotlin  
+- Android Development (Jetpack Compose)
+
+**Entertainment & Game Dev (learning)**
+- Multiplayer game architecture  
+- WebSockets  
+- Interactive and real-time systems  
 
 ---
 
