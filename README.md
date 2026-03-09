@@ -23,6 +23,23 @@
 
 ---
 
+## 💛 Support my work
+<div align="center">
+
+If you enjoy my projects and want to support my work in games, software and entertainment technology, you can support me here:
+
+<br> <a href="https://patreon.com/carlosacta"> <img src="https://img.shields.io/badge/Support%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> </a>
+
+<br><br>
+
+⭐ Your support helps me build:
+
+🎮 Indie games
+🧠 Experimental software projects
+🚀 The Near entertainment technology platform
+
+</div>
+
 ## 🎮 Featured Projects
 
 ### Warriors Arena
