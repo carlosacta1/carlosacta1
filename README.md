@@ -30,7 +30,7 @@ If you enjoy my projects and want to support my work in games, software and ente
 
 <br>
 
-<a href="[https://www.paypal.com/paypalme/carlosacta](https://www.paypal.com/donate?hosted_button_id=4KTKZPNH9XFJ6)"> <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> </a>
+<a href="https://www.paypal.com/donate?hosted_button_id=4KTKZPNH9XFJ6"> <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> </a>
 
 <a href="https://patreon.com/carlosacta"> <img src="https://img.shields.io/badge/Support%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> </a>
 
