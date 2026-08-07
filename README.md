@@ -84,7 +84,11 @@ I enjoy learning new technologies and solving multidisciplinary engineering chal
 
 ## 📫 Connect with me
 
-- Linkedin: [@carlos](https://www.linkedin.com/in/carlos-andres-acosta-tangarife/)
+<p>
+  <a href="https://www.linkedin.com/in/carlos-andres-acosta-tangarife/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
